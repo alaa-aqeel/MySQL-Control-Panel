@@ -1,6 +1,4 @@
 # MySQL-Control-Panel
-# By Boy Programmer 
-# Fb : https://web.facebook.com/boy.programmer.3
 # PySide
 
 _________________________________________________________
